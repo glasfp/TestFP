@@ -43,6 +43,7 @@
     <Compile Include="Class1.cs" />
     <Compile Include="Modul\Class1.cs" />
     <Compile Include="Modul\Class2.cs" />
+    <Compile Include="Modul\Class3.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup />
