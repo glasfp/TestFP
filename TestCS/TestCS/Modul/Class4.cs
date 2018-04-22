@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace TestCS.Modul
 {
-    class Class4
+    public class Class4
     {
     }
 }
